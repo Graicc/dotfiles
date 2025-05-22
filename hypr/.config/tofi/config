@@ -1,0 +1,10 @@
+font = "/nix/store/ih4sf5kzfn23n337nqmcfn6isfnz451l-nerdfonts-3.2.1/share/fonts/truetype/NerdFonts/FiraCodeNerdFont-Regular.ttf"
+
+font-size = 16
+
+width = 500
+height = 300
+
+border-width = 2
+
+matching-algorithm = normal

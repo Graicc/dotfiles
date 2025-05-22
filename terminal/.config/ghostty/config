@@ -1,0 +1,5 @@
+mouse-scroll-multiplier = 1
+command=zsh
+font-family = ""
+font-family = "FiraCodeNerdFont"
+window-decoration = false
